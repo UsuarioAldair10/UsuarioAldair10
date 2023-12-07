@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Aldair 👋</h1>
 </div>
 <img src="https://t-hub.mx/storage/blog/BJgPuaZEtc1OfU415JFbsd0b4nStv7oweNDABPUN.jpeg">
-Mis habilidades y conocimientos incluyen:
+## Mis habilidades y conocimientos incluyen:
 * Lenguajes de programación: C#, C, C++, Java, JavaScript, Python, Kotlin, Flutter
 * Frameworks y bibliotecas: AngularJS, ReactJS, Vue.js, Spring Boot
 * Bases de datos: MySQL, PostgreSQL
