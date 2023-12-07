@@ -6,7 +6,9 @@
 
 <div align="center" style="background-color: #f2f2f2; padding: 20px; border-radius: 10px">
 
-<img src="https://t-hub.mx/storage/blog/BJgPuaZEtc1OfU415JFbsd0b4nStv7oweNDABPUN.jpeg" width="50%" height="50%">
+  <div style="border: 5px solid #333; padding: 5px">
+    <img src="https://t-hub.mx/storage/blog/BJgPuaZEtc1OfU415JFbsd0b4nStv7oweNDABPUN.jpeg" width="50%" height="50%">
+  </div>
 
 </div>
 
